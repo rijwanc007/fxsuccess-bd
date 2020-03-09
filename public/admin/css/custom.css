@@ -1,0 +1,21 @@
+.custom-button{
+    padding: 6px 6px;
+    border-radius: 3px;
+    border: 1px solid #66000B;
+    font-size: 14px;
+    font-weight: bold;
+    color: #fff;
+    background:#66000B;
+    }
+    .custom-button:hover{
+         color: #fff;
+         border: 1px solid #66000B ;
+         background: transparent;
+    }
+    .content__title {
+     margin-bottom: 2rem;
+     padding: .75rem 0rem;
+ }
+ .blockbtn{
+     cursor: pointer;
+ }
